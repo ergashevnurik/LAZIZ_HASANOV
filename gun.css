@@ -1,0 +1,264 @@
+
+
+
+
+
+
+
+body{
+	background: url(https://vsthemes.org/uploads/posts/2020-01/1580286068_vsthemes_ru-4.png);
+}
+
+h1, p {
+	color: white;
+}
+li{
+	color: white;
+}
+.child1{
+
+	background-image: url(https://animecult.org/uploads/images/BlslcL6K5T86B0bNzPXLVw.jpg);
+	background-size: cover;
+	height:300px;
+	width: 300px;
+	
+
+}
+.child2{
+
+	background-image: url(https://kartinkin.net/uploads/posts/2021-07/1625567107_5-kartinkin-com-p-nezuko-art-art-krasivo-5.jpg);
+	background-size: cover;
+	height:300px;
+	width: 300px;
+
+}
+.child3{
+
+	background-image: url(https://i.pinimg.com/736x/0f/e5/3f/0fe53f38d3bf4098f58225517b7c247b.jpg);
+	background-size: cover;
+	height:300px;
+	width: 300px;
+	}
+.child4{
+
+	background-image: url(https://avatars.mds.yandex.net/get-zen_doc/3413906/pub_5ee60b06c2a70a25b386b835_5ee60d665991a234c2b34987/scale_1200);
+	background-size: cover;
+	height:300px;
+	width: 300px;
+	
+}
+.child5{
+	background-image: url(https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/1/15/Giyu_Anime_Profile.png/revision/latest/scale-to-width-down/130?cb=20191125193924);
+	background-size: cover;
+	height:300px;
+	width: 300px;
+}
+
+.child6{
+	background-image: url(https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/f/f8/Mitsuri_Anime_Profile.png/revision/latest/scale-to-width-down/130?cb=20191125192139);
+	background-size: cover;
+	height:300px;
+	width: 300px;
+}
+.child7{
+	background-image: url(https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/b/b7/Obanai_Anime_Profile.png/revision/latest/scale-to-width-down/130?cb=20191125192207);
+	background-size: cover;
+	height:300px;
+	width: 300px;
+}
+.child8{
+	background-image: url(https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/3/36/Sanemi_Anime_Profile.png/revision/latest/scale-to-width-down/130?cb=20191125200428);
+	background-size: cover;
+	height:300px;
+	width: 300px;
+}
+.child9{
+	background-image: url(https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/7/79/Gyomei_Anime_Profile.png/revision/latest/scale-to-width-down/130?cb=20211017164358);
+	background-size: cover;
+	height:300px;
+	width: 300px;
+}
+.child10{
+	background-image: url(https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/d/d8/Tengen_Anime_Profile.png/revision/latest/scale-to-width-down/130?cb=20191125192102);
+	background-size: cover;
+	height:300px;
+	width: 300px;
+}
+.child11{
+	background-image: url(https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/9/9e/Muichiro_Anime_Profile.png/revision/latest/scale-to-width-down/130?cb=20191125200456);
+	background-size: cover;
+	height:300px;
+	width: 300px;
+}
+.child12{
+	background-image: url(https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/b/b2/Shinobu_Anime_Profile.png/revision/latest/scale-to-width-down/130?cb=20191125193958);
+	background-size: cover;
+	height:300px;
+	width: 300px;
+}
+.child13{
+	background-image: url(https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/f/f8/Kokushibo_Upper_Rank_profile.png/revision/latest/scale-to-width-down/130?cb=20200516100919);
+	background-size: cover;
+	height:300px;
+	width: 300px;
+}
+.child14{
+		background-image: url(https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/9/93/Doma_Upper_Rank_profile.png/revision/latest/scale-to-width-down/130?cb=20200516100920);
+	background-size: cover;
+	height:300px;
+	width: 300px;
+}
+.child15{
+		background-image: url(https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/a/ab/Akaza_Upper_Rank_profile.png/revision/latest/scale-to-width-down/130?cb=20200516100921);
+	background-size: cover;
+	height:300px;
+	width: 300px;
+}
+.child16{
+		background-image: url(https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/2/20/Nakime_Upper_Rank_profile.png/revision/latest/scale-to-width-down/130?cb=20200516100922);
+	background-size: cover;
+	height:300px;
+	width: 300px;
+}
+.child17{
+		background-image: url(https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/0/09/Hantengu_Upper_Rank_profile.png/revision/latest/scale-to-width-down/130?cb=20200516100923);
+	background-size: cover;
+	height:300px;
+	width: 300px;
+}
+.child18{
+	background-image: url(https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/3/36/Gyokko_Upper_Rank_profile.png/revision/latest/scale-to-width-down/130?cb=20200516100926);
+	background-size: cover;
+	height: 300px;
+	width: 300px;
+}
+.child19{
+	background-image: url(https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/f/f8/Kaigaku_Upper_Rank_profile.png/revision/latest/scale-to-width-down/130?cb=20200516100928);
+	background-size: cover;
+	height: 300px;
+	width: 300px;
+}
+.child20{
+	background-image: url(https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/2/29/Gyutaro_Upper_Rank_profile.png/revision/latest/scale-to-width-down/130?cb=20200516100929);
+	background-size: cover;
+	height: 300px;
+	width: 300px;
+}
+.child21{
+	background-image: url(https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/f/f9/Daki_Upper_Rank_profile.png/revision/latest/scale-to-width-down/130?cb=20200516100931);
+	background-size: cover;
+	height: 300px;
+	width: 300px;
+}
+.child22{
+	background-image: url(https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/5/51/Enmu_colored_profile.png/revision/latest/scale-to-width-down/130?cb=20181213184211);
+	background-size: cover;
+	height: 300px;
+	width: 300px;
+}
+.child23{
+		background-image: url(https://i.pinimg.com/736x/19/26/99/192699d15415322f6d051e60087a2a38.jpg);
+	background-size: cover;
+	height: 300px;
+	width: 300px;
+}
+.child24{
+		background-image: url(https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/42/Rokuro_profile.png/revision/latest/scale-to-width-down/130?cb=20181213184246);
+	background-size: cover;
+	height: 300px;
+	width: 300px;
+}
+.child25{
+		background-image: url(https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/c/ce/Hairo_profile.png/revision/latest/scale-to-width-down/130?cb=20201029092259);
+	background-size: cover;
+	height: 300px;
+	width: 300px;
+}
+.child26{
+		background-image: url(https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/c/ce/Hairo_profile.png/revision/latest/scale-to-width-down/130?cb=20201029092259);
+	background-size: cover;
+	height: 300px;
+	width: 300px;
+}
+.child27{
+		background-image: url(https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/6/6e/Wakuraba_profile.png/revision/latest/scale-to-width-down/130?cb=20181213184252);
+	background-size: cover;
+	height: 300px;
+	width: 300px;
+}
+.child28{
+		background-image: url(https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/5/54/Rui_colored_profile.png/revision/latest/scale-to-width-down/130?cb=20181213184318);
+	background-size: cover;
+	height: 300px;
+	width: 300px;
+}
+.child29{
+		background-image: url(https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/d/dc/Kamanue_profile.png/revision/latest/scale-to-width-down/130?cb=20181213184303);
+	background-size: cover;
+	height: 300px;
+	width: 300px;
+}
+.child30{
+			background-image: url(https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/5/5a/Kyogai_colored_profile.png/revision/latest/scale-to-width-down/130?cb=20181213184240);
+	background-size: cover;
+	height: 300px;
+	width: 300px;
+}
+.child31{
+	background-image: url(https://img5.goodfon.ru/original/960x854/1/a1/demon-slayer-kimetsu-no-yaiba-klinok-rassekaiushchii-demon-8.jpg);
+	background-size: cover;
+	height:600px;
+	width: 500px;
+}
+.child32{
+	background-image: url(https://i.pinimg.com/736x/d3/c7/30/d3c7305c09e0894a10c8375e336ed5c2.jpg);
+	background-size: cover;
+	height:600px;
+	width: 500px;
+}
+.child33{
+	background-image: url(https://i.pinimg.com/originals/45/a5/f3/45a5f3090e6213f89ac1520e79fb1f2c.jpg);
+	background-size: cover;
+	height: 600px;
+	width: 500px;
+
+}
+.child34{
+		background-image: url(https://yt3.ggpht.com/a/AATXAJxtEbeWCKwepUL37zV1-YB84eylxkkp-ekUTLCbdw=s900-c-k-c0xffffffff-no-rj-mo);
+	background-size: cover;
+	height: 600px;
+	width: 500px;
+
+}
+.parent {
+	display: flex;
+}
+
+
+.child p {
+		color: green!important;
+
+}
+body {
+	flex-wrap: wrap;
+}
+li {
+padding: 25px;	
+}
+li.krd5 {
+	background:transparent;
+}
+li {
+	background:black;
+}
+.krd {
+width: 110px;
+height: 110px;
+
+}
+ul {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	list-style: none;
+}
